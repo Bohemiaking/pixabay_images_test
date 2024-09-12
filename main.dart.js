@@ -75390,7 +75390,7 @@ return A.K($async$wf,r)}}
 A.Hv.prototype={}
 A.a1I.prototype={
 $1(a){var s=J.am(a)
-return new A.iI(s.i(a,"id"),s.i(a,"webformatURL"),s.i(a,"likes"),s.i(a,"views"))},
+return new A.iI(s.i(a,"id"),s.i(a,"imageURL"),s.i(a,"likes"),s.i(a,"views"))},
 $S:486}
 A.iI.prototype={}
 A.Ik.prototype={
